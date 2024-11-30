@@ -1,0 +1,13 @@
+
+body{overflow-x: hidden}
+.navbar-brand{padding-left: 115px}
+.navbar-toggler{margin-right: 90px}
+form{margin-right: 100px}
+.shop{padding: 85px}
+.shop p{font-size: 20px;color: #9c9c9c} 
+.star{letter-spacing: -2.5px;color: #efb300}
+@media(max-width:440px){
+	.navbar-brand{padding-left: 15px;font-size: 18px}
+	.navbar-toggler{margin-right: 10px}	
+}
+	
